@@ -1,0 +1,109 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color:bisque;
+}
+
+.container {
+    margin-left: 30vw;
+    margin-top: 14vh;
+    background-color: rgb(231, 129, 34);
+    border-radius: 10px;
+    height: fit-content;
+    width: 500px;
+    opacity: 0.7;
+    box-sizing: border-box;
+    padding: 10px;
+    padding-left: 100px;
+    padding-top: 30px;
+}
+
+.input-box {
+    height: 33px;
+    width: 200px;
+    margin-right: 10px;
+    outline: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin-bottom: 34px;
+    box-sizing: border-box;
+    padding-left: 10px;
+    padding-top: 2px;
+
+}
+
+.add-btn {
+    height: 35px;
+    width: 90px;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    cursor: pointer;
+}
+
+.newTextClass {
+    border: 1px solid black;
+    border-radius: 5px;
+    width: 201px;
+    height: fit-content;
+    position: relative;
+    top: 15px;
+    box-sizing: border-box;
+    padding: 5px 0px 5px 13px;
+    color: black;
+    font-weight: bold;
+    background-color: lavender;
+}
+
+.newDeleteButton {
+    position: relative;
+    left: 255px;
+    height: 35px;
+    width: 90px;
+    top: 10px;
+    cursor: pointer;
+    background-color: rgb(231, 129, 34) ;
+
+}
+
+.newCheckBox {
+    position: relative;
+    right: 56px;
+    bottom: 23px;
+    height: 24px;
+    width: 40px;
+    accent-color: black;
+    cursor: pointer;
+}
+
+div {
+    width: 320px;
+    margin-top: -21px;
+}
+
+.tickMark {
+    text-decoration: line-through;
+}
+
+h1 {
+    text-align: center;
+    position: relative;
+    top: 70px;
+    right: 25px;
+    color:crimson;
+}
+
+h2{
+    text-align: center;
+    position: relative;
+    top: 80px;
+    right:25px;
+    color: crimson;
+}
+
+.DateTime {
+    font-size: 14px;
+    position: relative;
+    top: 38px;
+    left: 77px;
+    background-color:  rgb(231, 129, 34);
+}
